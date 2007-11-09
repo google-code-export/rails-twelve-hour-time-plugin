@@ -7,7 +7,7 @@ format.
 
 USAGE:
 
-  <%= time_select ‘event’, ‘time’, {:twelve_hour => true} %>
+  <%= time_select 'event', 'time', {:twelve_hour => true} %>
 
 Authors: Nick Muerdter (original code)
          Maurice Aubrey <maurice.aubrey+12hour@gmail.com>
